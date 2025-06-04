@@ -15000,6 +15000,27 @@ MonoBehaviour:
   launchSound: {fileID: 8300000, guid: 793128bba5fd9e34aae66383a572b321, type: 3}
   coinSound: {fileID: 8300000, guid: 20970d66b8045c14a931ef809a52e305, type: 3}
   keySound: {fileID: 8300000, guid: 476d8c23a83c8e74381de1a0a376a941, type: 3}
+  deadSound: {fileID: 8300000, guid: 70b2db442e3d0214993feb027568010c, type: 3}
+  paused: 0
+  coinsCollected: 0
+  zombiesKilled: 0
+  medalZombie1Lvl1: 0
+  medalZombie2Lvl1: 0
+  medalZombie3Lvl1: 0
+  medalZombie4Lvl1: 0
+  medalZombie5Lvl1: 0
+  coinCollected1Lvl1: 0
+  coinCollected2Lvl1: 0
+  coinCollected3Lvl1: 0
+  medalZombie1Lvl2: 0
+  medalZombie2Lvl2: 0
+  medalZombie3Lvl2: 0
+  medalZombie4Lvl2: 0
+  medalZombie5Lvl2: 0
+  medalZombie6Lvl2: 0
+  coinCollected1Lvl2: 0
+  coinCollected2Lvl2: 0
+  coinCollected3Lvl2: 0
   batBurst: {fileID: 6167721565410352375}
 --- !u!61 &3678587382825157984
 BoxCollider2D:
