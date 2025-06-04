@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - pause
+  - platform
+  - zombie
+  - rocket
+  - Border
+  - BorderLeft
+  - BorderRight
+  - BorderTop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 512144111
+    locked: 0
+  - name: Level
+    uniqueID: 956405393
+    locked: 0
+  - name: Player
+    uniqueID: 3440795715
+    locked: 0
+  - name: Particles
+    uniqueID: 2914979007
+    locked: 0
+  m_RenderingLayers:
+  - Default
